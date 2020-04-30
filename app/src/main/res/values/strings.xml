@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">primera_app</string>
+    <string name="numero">Numero</string>
+    <string name="aleatorio">Aleatorio</string>
+    <string name="numaleatorio">0</string>
+    <string name="salir">Salir</string>
+</resources>
