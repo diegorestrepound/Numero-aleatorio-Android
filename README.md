@@ -1,2 +1,2 @@
-# primera_app
- juego android
+# Numero aleatorio
+ juego basico de numero aleatorio 
